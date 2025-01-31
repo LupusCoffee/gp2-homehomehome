@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3967562	SetState_MusicLayers_Layers5			\Default Work Unit\StateSetters\SetState_MusicLayers_Layers5	
+	3967563	SetState_MusicLayers_Layers4			\Default Work Unit\StateSetters\SetState_MusicLayers_Layers4	
+	3967564	SetState_MusicLayers_Layers3			\Default Work Unit\StateSetters\SetState_MusicLayers_Layers3	
+	3967565	SetState_MusicLayers_Layers2			\Default Work Unit\StateSetters\SetState_MusicLayers_Layers2	
+	3967566	SetState_MusicLayers_Layers1			\Default Work Unit\StateSetters\SetState_MusicLayers_Layers1	
+	3600269520	SetState_AreaStates_Part4			\Default Work Unit\StateSetters\SetState_AreaStates_Part4	
+	3600269521	SetState_AreaStates_Part5			\Default Work Unit\StateSetters\SetState_AreaStates_Part5	
+	3600269525	SetState_AreaStates_Part1			\Default Work Unit\StateSetters\SetState_AreaStates_Part1	
+	3600269526	SetState_AreaStates_Part2			\Default Work Unit\StateSetters\SetState_AreaStates_Part2	
+	3600269527	SetState_AreaStates_Part3			\Default Work Unit\StateSetters\SetState_AreaStates_Part3	
+

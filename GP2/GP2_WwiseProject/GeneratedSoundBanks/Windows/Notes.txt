@@ -1,0 +1,40 @@
+Event	ID	Name			Wwise Object Path	Notes
+	320912744	Play_shortNote_1			\Default Work Unit\Notes\Base\Play_shortNote_1	
+	320912746	Play_shortNote_3			\Default Work Unit\Notes\Base\Play_shortNote_3	
+	320912747	Play_shortNote_2			\Default Work Unit\Notes\Base\Play_shortNote_2	
+	320912748	Play_shortNote_5			\Default Work Unit\Notes\Base\Play_shortNote_5	
+	320912749	Play_shortNote_4			\Default Work Unit\Notes\Base\Play_shortNote_4	
+	320912751	Play_shortNote_6			\Default Work Unit\Notes\Base\Play_shortNote_6	
+	2468548985	Play_light_shortNote_1			\Default Work Unit\Notes\Light\Play_light_shortNote_1	
+	2468548986	Play_light_shortNote_2			\Default Work Unit\Notes\Light\Play_light_shortNote_2	
+	2468548987	Play_light_shortNote_3			\Default Work Unit\Notes\Light\Play_light_shortNote_3	
+	2468548988	Play_light_shortNote_4			\Default Work Unit\Notes\Light\Play_light_shortNote_4	
+	2468548989	Play_light_shortNote_5			\Default Work Unit\Notes\Light\Play_light_shortNote_5	
+	2468548990	Play_light_shortNote_6			\Default Work Unit\Notes\Light\Play_light_shortNote_6	
+	3919988481	Play_mind_shortNote_1			\Default Work Unit\Notes\Mind\Play_mind_shortNote_1	
+	3919988482	Play_mind_shortNote_2			\Default Work Unit\Notes\Mind\Play_mind_shortNote_2	
+	3919988483	Play_mind_shortNote_3			\Default Work Unit\Notes\Mind\Play_mind_shortNote_3	
+	3919988484	Play_mind_shortNote_4			\Default Work Unit\Notes\Mind\Play_mind_shortNote_4	
+	3919988485	Play_mind_shortNote_5			\Default Work Unit\Notes\Mind\Play_mind_shortNote_5	
+	3919988486	Play_mind_shortNote_6			\Default Work Unit\Notes\Mind\Play_mind_shortNote_6	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	41263474	mind_shortNote_5	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\0E\{0E9AEB64-C396-9397-89B7-6F0D91313B5C}.wem		\Interactive Music Hierarchy\Default Work Unit\mind\mind_shortNote_5\mind_shortNote_5		389156
+	176702775	mind_shortNote_1	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\79\{79AE06B3-680D-0D3E-992A-98ABE36C62CB}.wem		\Interactive Music Hierarchy\Default Work Unit\mind\mind_shortNote_1\mind_shortNote_1		345640
+	207523053	light_shortNote_5	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\E2\{E28CA6BE-0DCB-8F36-3354-E854AD24835C}.wem		\Interactive Music Hierarchy\Default Work Unit\light\light_shortNote_5\light_shortNote_5		373332
+	390045013	shortNote_4	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\10\{1009781F-815C-1A06-2448-1F0E68FBE549}.wem		\Interactive Music Hierarchy\Default Work Unit\BaseNotes\shortNote_4\shortNote_4		364100
+	452493270	shortNote_3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\CD\{CD475F69-470F-9BEB-5A85-65D8F9579FDE}.wem		\Interactive Music Hierarchy\Default Work Unit\BaseNotes\shortNote_3\shortNote_3		372012
+	464247198	mind_shortNote_4	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\17\{175759D5-0560-F9C3-CA7F-49B73F5D9762}.wem		\Interactive Music Hierarchy\Default Work Unit\mind\mind_shortNote_4\mind_shortNote_4		368056
+	471443382	light_shortNote_6	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\14\{14935E4E-7282-7D6A-66E5-7C11F362B69A}.wem		\Interactive Music Hierarchy\Default Work Unit\light\light_shortNote_6\light_shortNote_6		373332
+	516464642	light_shortNote_2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\99\{99085AF1-E00B-8AD9-3647-B42B62A52CD3}.wem		\Interactive Music Hierarchy\Default Work Unit\light\light_shortNote_2\light_shortNote_2		345640
+	639920235	shortNote_6	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\32\{32EDEB7C-DD54-C287-9DB2-3E581B044D03}.wem		\Interactive Music Hierarchy\Default Work Unit\BaseNotes\shortNote_6\shortNote_6		349596
+	663984591	mind_shortNote_2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\07\{07396B9A-681E-C532-203A-2A1EA0644A1C}.wem		\Interactive Music Hierarchy\Default Work Unit\mind\mind_shortNote_2\mind_shortNote_2		370692
+	749552311	light_shortNote_1	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\E5\{E524B411-69B3-66D7-B2D4-F8ABA950DA43}.wem		\Interactive Music Hierarchy\Default Work Unit\light\light_shortNote_1\light_shortNote_1		348276
+	772618742	shortNote_2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\94\{9420E9B8-3498-E56B-1AF6-C5D4E37E5178}.wem		\Interactive Music Hierarchy\Default Work Unit\BaseNotes\shortNote_2\shortNote_2		379924
+	871214487	shortNote_1	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\0A\{0A8E90F2-CEC5-785C-9FD3-D454963F6B95}.wem		\Interactive Music Hierarchy\Default Work Unit\BaseNotes\shortNote_1\shortNote_1		378604
+	896905349	mind_shortNote_6	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\31\{31688047-719A-67CB-22AD-7ECF5CEDB27D}.wem		\Interactive Music Hierarchy\Default Work Unit\mind\mind_shortNote_6\mind_shortNote_6		364100
+	897906537	light_shortNote_3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\9A\{9A11A133-B41F-1C02-A919-15615569CECB}.wem		\Interactive Music Hierarchy\Default Work Unit\light\light_shortNote_3\light_shortNote_3		378604
+	919918277	shortNote_5	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\35\{352C4DDF-6B60-8056-4994-1A3BEC79DA3C}.wem		\Interactive Music Hierarchy\Default Work Unit\BaseNotes\shortNote_5\shortNote_5		352232
+	975241729	light_shortNote_4	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\AE\{AE9490C4-CFB0-FBC7-6D4E-89CFA8C8527D}.wem		\Interactive Music Hierarchy\Default Work Unit\light\light_shortNote_4\light_shortNote_4		329816
+	1022112459	mind_shortNote_3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\DD\{DDEB17B3-F7D6-83C3-3A4C-9D3C769EBB4D}.wem		\Interactive Music Hierarchy\Default Work Unit\mind\mind_shortNote_3\mind_shortNote_3		370692
+

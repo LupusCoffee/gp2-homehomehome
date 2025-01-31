@@ -1,0 +1,421 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "201729212",
+    "Type": "User",
+    "GUID": "{B0663597-14E9-42C3-8D67-A9F3F3A1C28B}",
+    "Language": "SFX",
+    "Hash": "{0A324D5B-16E7-C018-7F42-744703500681}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Notes",
+    "ShortName": "Notes",
+    "Path": "Notes.bnk",
+    "Media": [
+     {
+      "Id": "41263474",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mind_shortNote_5.wav",
+      "CachePath": "0E/{0E9AEB64-C396-9397-89B7-6F0D91313B5C}.wem"
+     },
+     {
+      "Id": "176702775",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mind_shortNote_1.wav",
+      "CachePath": "79/{79AE06B3-680D-0D3E-992A-98ABE36C62CB}.wem"
+     },
+     {
+      "Id": "207523053",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "light_shortNote_5.wav",
+      "CachePath": "E2/{E28CA6BE-0DCB-8F36-3354-E854AD24835C}.wem"
+     },
+     {
+      "Id": "390045013",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shortNote_4.wav",
+      "CachePath": "10/{1009781F-815C-1A06-2448-1F0E68FBE549}.wem"
+     },
+     {
+      "Id": "452493270",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shortNote_3.wav",
+      "CachePath": "CD/{CD475F69-470F-9BEB-5A85-65D8F9579FDE}.wem"
+     },
+     {
+      "Id": "464247198",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mind_shortNote_4.wav",
+      "CachePath": "17/{175759D5-0560-F9C3-CA7F-49B73F5D9762}.wem"
+     },
+     {
+      "Id": "471443382",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "light_shortNote_6.wav",
+      "CachePath": "14/{14935E4E-7282-7D6A-66E5-7C11F362B69A}.wem"
+     },
+     {
+      "Id": "516464642",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "light_shortNote_2.wav",
+      "CachePath": "99/{99085AF1-E00B-8AD9-3647-B42B62A52CD3}.wem"
+     },
+     {
+      "Id": "639920235",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shortNote_6.wav",
+      "CachePath": "32/{32EDEB7C-DD54-C287-9DB2-3E581B044D03}.wem"
+     },
+     {
+      "Id": "663984591",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mind_shortNote_2.wav",
+      "CachePath": "07/{07396B9A-681E-C532-203A-2A1EA0644A1C}.wem"
+     },
+     {
+      "Id": "749552311",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "light_shortNote_1.wav",
+      "CachePath": "E5/{E524B411-69B3-66D7-B2D4-F8ABA950DA43}.wem"
+     },
+     {
+      "Id": "772618742",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shortNote_2.wav",
+      "CachePath": "94/{9420E9B8-3498-E56B-1AF6-C5D4E37E5178}.wem"
+     },
+     {
+      "Id": "871214487",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shortNote_1.wav",
+      "CachePath": "0A/{0A8E90F2-CEC5-785C-9FD3-D454963F6B95}.wem"
+     },
+     {
+      "Id": "896905349",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mind_shortNote_6.wav",
+      "CachePath": "31/{31688047-719A-67CB-22AD-7ECF5CEDB27D}.wem"
+     },
+     {
+      "Id": "897906537",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "light_shortNote_3.wav",
+      "CachePath": "9A/{9A11A133-B41F-1C02-A919-15615569CECB}.wem"
+     },
+     {
+      "Id": "919918277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shortNote_5.wav",
+      "CachePath": "35/{352C4DDF-6B60-8056-4994-1A3BEC79DA3C}.wem"
+     },
+     {
+      "Id": "975241729",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "light_shortNote_4.wav",
+      "CachePath": "AE/{AE9490C4-CFB0-FBC7-6D4E-89CFA8C8527D}.wem"
+     },
+     {
+      "Id": "1022112459",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mind_shortNote_3.wav",
+      "CachePath": "DD/{DDEB17B3-F7D6-83C3-3A4C-9D3C769EBB4D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2468548985",
+      "Name": "Play_light_shortNote_1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Light\\Play_light_shortNote_1",
+      "GUID": "{E26DE6D5-6D0A-42F0-A01E-FCBE124FC173}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9230834",
+      "DurationMax": "1.9230834",
+      "MediaRefs": [
+       {
+        "Id": "749552311"
+       }
+      ]
+     },
+     {
+      "Id": "2468548986",
+      "Name": "Play_light_shortNote_2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Light\\Play_light_shortNote_2",
+      "GUID": "{C7DE0058-197F-4449-B84F-95619AD8E6E3}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.875",
+      "DurationMax": "1.875",
+      "MediaRefs": [
+       {
+        "Id": "516464642"
+       }
+      ]
+     },
+     {
+      "Id": "2468548987",
+      "Name": "Play_light_shortNote_3",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Light\\Play_light_shortNote_3",
+      "GUID": "{0701DBCA-147B-442A-865E-76AE8E4FB747}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9711459",
+      "DurationMax": "1.9711459",
+      "MediaRefs": [
+       {
+        "Id": "897906537"
+       }
+      ]
+     },
+     {
+      "Id": "2468548988",
+      "Name": "Play_light_shortNote_4",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Light\\Play_light_shortNote_4",
+      "GUID": "{1A48E292-61F6-4211-B761-72384AB1A861}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.8475208",
+      "DurationMax": "1.8475208",
+      "MediaRefs": [
+       {
+        "Id": "975241729"
+       }
+      ]
+     },
+     {
+      "Id": "2468548989",
+      "Name": "Play_light_shortNote_5",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Light\\Play_light_shortNote_5",
+      "GUID": "{397356E9-E11E-4026-ABC3-1E1205904756}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9436876",
+      "DurationMax": "1.9436876",
+      "MediaRefs": [
+       {
+        "Id": "207523053"
+       }
+      ]
+     },
+     {
+      "Id": "2468548990",
+      "Name": "Play_light_shortNote_6",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Light\\Play_light_shortNote_6",
+      "GUID": "{043A774A-CA1A-4ACA-8B36-630A0A30D792}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9436876",
+      "DurationMax": "1.9436876",
+      "MediaRefs": [
+       {
+        "Id": "471443382"
+       }
+      ]
+     },
+     {
+      "Id": "3919988481",
+      "Name": "Play_mind_shortNote_1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Mind\\Play_mind_shortNote_1",
+      "GUID": "{0881135E-C27B-400B-B140-3DBA7DD6C3AF}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9024792",
+      "DurationMax": "1.9024792",
+      "MediaRefs": [
+       {
+        "Id": "176702775"
+       }
+      ]
+     },
+     {
+      "Id": "3919988482",
+      "Name": "Play_mind_shortNote_2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Mind\\Play_mind_shortNote_2",
+      "GUID": "{B21B61A2-41F5-4B66-9D84-776512F83320}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9299375",
+      "DurationMax": "1.9299375",
+      "MediaRefs": [
+       {
+        "Id": "663984591"
+       }
+      ]
+     },
+     {
+      "Id": "3919988483",
+      "Name": "Play_mind_shortNote_3",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Mind\\Play_mind_shortNote_3",
+      "GUID": "{61B6A36C-1456-492D-9156-1AA8205B7203}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9299375",
+      "DurationMax": "1.9299375",
+      "MediaRefs": [
+       {
+        "Id": "1022112459"
+       }
+      ]
+     },
+     {
+      "Id": "3919988484",
+      "Name": "Play_mind_shortNote_4",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Mind\\Play_mind_shortNote_4",
+      "GUID": "{B2C00153-7782-41FA-9498-91F70CF8700E}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9162084",
+      "DurationMax": "1.9162084",
+      "MediaRefs": [
+       {
+        "Id": "464247198"
+       }
+      ]
+     },
+     {
+      "Id": "3919988485",
+      "Name": "Play_mind_shortNote_5",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Mind\\Play_mind_shortNote_5",
+      "GUID": "{FCEB945E-80B3-416D-8F90-11AD524F0FFB}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.0261042",
+      "DurationMax": "2.0261042",
+      "MediaRefs": [
+       {
+        "Id": "41263474"
+       }
+      ]
+     },
+     {
+      "Id": "3919988486",
+      "Name": "Play_mind_shortNote_6",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Mind\\Play_mind_shortNote_6",
+      "GUID": "{2D59DD4F-B257-4A91-B7F4-A1D833E49FC8}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.0123541",
+      "DurationMax": "2.0123541",
+      "MediaRefs": [
+       {
+        "Id": "896905349"
+       }
+      ]
+     },
+     {
+      "Id": "320912744",
+      "Name": "Play_shortNote_1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Base\\Play_shortNote_1",
+      "GUID": "{6EB876BD-65BC-417C-A36D-C5EA412E71D4}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.884625",
+      "DurationMax": "2.884625",
+      "MediaRefs": [
+       {
+        "Id": "871214487"
+       }
+      ]
+     },
+     {
+      "Id": "320912747",
+      "Name": "Play_shortNote_2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Base\\Play_shortNote_2",
+      "GUID": "{59E10B2C-277D-4C46-A41E-BD440318D158}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.0288541",
+      "DurationMax": "3.0288541",
+      "MediaRefs": [
+       {
+        "Id": "772618742"
+       }
+      ]
+     },
+     {
+      "Id": "320912746",
+      "Name": "Play_shortNote_3",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Base\\Play_shortNote_3",
+      "GUID": "{CA677200-1D0E-42E0-BCBD-87353BEEDEBB}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.0219793",
+      "DurationMax": "3.0219793",
+      "MediaRefs": [
+       {
+        "Id": "452493270"
+       }
+      ]
+     },
+     {
+      "Id": "320912749",
+      "Name": "Play_shortNote_4",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Base\\Play_shortNote_4",
+      "GUID": "{73FBE569-4CE6-4D2D-B951-7378F0D541D3}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.623625",
+      "DurationMax": "2.623625",
+      "MediaRefs": [
+       {
+        "Id": "390045013"
+       }
+      ]
+     },
+     {
+      "Id": "320912748",
+      "Name": "Play_shortNote_5",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Base\\Play_shortNote_5",
+      "GUID": "{AD9A4234-C7F8-4E10-A41A-793FEBD97D0E}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.6923125",
+      "DurationMax": "2.6923125",
+      "MediaRefs": [
+       {
+        "Id": "919918277"
+       }
+      ]
+     },
+     {
+      "Id": "320912751",
+      "Name": "Play_shortNote_6",
+      "ObjectPath": "\\Events\\Default Work Unit\\Notes\\Base\\Play_shortNote_6",
+      "GUID": "{794AE47D-1D39-41CC-8BE4-3F3C8AB93D18}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.623625",
+      "DurationMax": "2.623625",
+      "MediaRefs": [
+       {
+        "Id": "639920235"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D13D92E7-3262-F765-5CC1-E7535ADEADC5}"
+ }
+}

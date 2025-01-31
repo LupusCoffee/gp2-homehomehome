@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97d27496e3aac348a45f2f536a2fa1b, type: 3}
+  m_Name: SO_SpellAttributes
+  m_EditorClassIdentifier: 
+  typeAttributeLength: 3
+  typeAttributes:
+  - typeNoteSequence: 020000000400000005000000
+    musicScaleOnActive: 0
+    spellType: 0
+  - typeNoteSequence: 020000000300000001000000
+    musicScaleOnActive: 0
+    spellType: 1
+  - typeNoteSequence: 010000000000000004000000
+    musicScaleOnActive: 0
+    spellType: 2
+  - typeNoteSequence: 000000000200000002000000
+    musicScaleOnActive: 0
+    spellType: 3
+  propertyAttributeLength: 2
+  propertyAttributes:
+  - typeNoteSequence: 0300000003000000
+    musicScaleOnActive: 0
+    spellProperty: 0
+  - typeNoteSequence: 0200000003000000
+    musicScaleOnActive: 1
+    spellProperty: 1
+  targetAttributeLength: 3
+  targetAttributes:
+  - typeNoteSequence: 020000000000000002000000
+    spellTarget: 0
+  - typeNoteSequence: 010000000200000000000000
+    spellTarget: 1
+  - typeNoteSequence: 000000000100000002000000
+    spellTarget: 3
+  - typeNoteSequence: 050000000400000003000000
+    spellTarget: 2

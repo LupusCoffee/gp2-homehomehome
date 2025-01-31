@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D4FBD1CB-B541-4E1C-A12A-DAE5965C752B}" SchemaVersion="123">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{D4FBD1CB-B541-4E1C-A12A-DAE5965C752B}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="SceneFadeOut" ID="{FB717B8E-53C0-4648-9111-C0A8CDFF5E19}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Instrument1Volume" ID="{99CC7BB5-EC08-458C-9D15-0596F8D87D76}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

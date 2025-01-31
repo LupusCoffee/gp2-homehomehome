@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C3DEA58F-D870-442E-B72C-962A0FD99D29}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{C3DEA58F-D870-442E-B72C-962A0FD99D29}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="AreaStates" ID="{1848850B-DEC0-4E66-B9D9-8166ED1DAC5E}">
+					<ChildrenList>
+						<State Name="None" ID="{01CE6CF4-4535-4124-86D4-93C4B52227B3}"/>
+						<State Name="part1" ID="{D8301E51-A9EE-4158-A118-F08D5A19126B}"/>
+						<State Name="part2" ID="{E0E69E4A-81D8-4D3D-AEEE-6D1443B40BB1}"/>
+						<State Name="part3" ID="{0BCCB92C-6353-4C2B-B830-0E53D288740D}"/>
+						<State Name="part4" ID="{A045A065-9C39-4F22-A622-0447EF6B6A00}"/>
+						<State Name="part5" ID="{97B9FD96-3931-4B4C-9100-7EA4E14A36C8}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="MusicLayers" ID="{77709349-831A-41AC-B93D-14DA8628A680}">
+					<ChildrenList>
+						<State Name="None" ID="{982CA274-3BA0-485F-93C4-9ACAFB93714E}"/>
+						<State Name="layers1" ID="{E0B51BE4-0266-4D73-AE2B-F2FE13CBD555}"/>
+						<State Name="layers2" ID="{B5995E9C-BCC5-4D91-9286-FF4F81CB3AFC}"/>
+						<State Name="layers3" ID="{514BBF62-5049-4716-9F5A-9DCDDF628040}"/>
+						<State Name="layers4" ID="{54B2EE34-76B5-430A-A142-5BD287A1F11D}"/>
+						<State Name="layers5" ID="{B2372D52-00EA-4CD0-A4B8-C9E426F48BE8}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="AudioState" ID="{DE5DD565-4EED-4D1E-8A8A-6F30C5D45A9B}">
+					<ChildrenList>
+						<State Name="None" ID="{559F16AF-C1F2-40BF-9833-728AF5D8A27F}"/>
+						<State Name="Gameplay" ID="{489C765F-2BA8-455B-9293-12033FE7D936}"/>
+						<State Name="Cutscene" ID="{93A6CAC4-FEF9-4B93-92B9-79218C324E39}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

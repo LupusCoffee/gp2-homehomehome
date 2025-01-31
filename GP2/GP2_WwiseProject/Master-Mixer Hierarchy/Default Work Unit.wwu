@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FB1A4E8A-C53C-48C2-ADD1-784A0511E87A}" SchemaVersion="123">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{FB1A4E8A-C53C-48C2-ADD1-784A0511E87A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{FB0C63D0-21EF-43E8-A9DB-F5F58DCF1B6A}" WorkUnitID="{27A11CBC-89FC-498B-A6B0-716841020E9C}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="MUSIC" ID="{8F676C3B-6B5E-4C8F-B11A-6B981936A144}">
+							<ChildrenList>
+								<Bus Name="mus_environment" ID="{DE9645D5-BDBB-445E-8250-BC7DEBC7A761}">
+									<ChildrenList>
+										<Bus Name="mus_env_forest" ID="{7779ADA5-9BEC-4022-9B9C-EF25168E3D7B}"/>
+										<Bus Name="mus_env_tower" ID="{C4CDBDC8-B22D-4B60-840D-6A70D5EB1C7C}"/>
+										<Bus Name="mus_env_start" ID="{997D818E-94C8-4873-9070-F42B93ABB0E9}"/>
+									</ChildrenList>
+								</Bus>
+								<Bus Name="mus_interactions" ID="{F63611A9-64DC-40C9-B992-78302F69819C}">
+									<ChildrenList>
+										<Bus Name="mus_int_puzzle" ID="{8CF00CAE-3CD7-4762-9F9E-DE08A0799218}"/>
+										<Bus Name="mus_int_voices" ID="{214B0A12-81AC-410B-BA91-B3CFE5072E23}">
+											<ChildrenList>
+												<Bus Name="mus_voice_player" ID="{EE83A153-3D71-43B9-97FF-DC9AA7339422}"/>
+												<Bus Name="mus_voice_npc" ID="{802223D6-FD1F-4294-A151-4C69FB9BD1A8}"/>
+											</ChildrenList>
+										</Bus>
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="AudioState" ID="{DE5DD565-4EED-4D1E-8A8A-6F30C5D45A9B}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Gameplay" ID="{489C765F-2BA8-455B-9293-12033FE7D936}"/>
+										<CustomState Name="" ID="{E956D718-0F8A-4E3D-BDAB-F5B14EA8AA29}" ShortID="41567386"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Cutscene" ID="{93A6CAC4-FEF9-4B93-92B9-79218C324E39}"/>
+										<CustomState Name="" ID="{71625FE4-B80E-4976-8C36-1A2CDAC1B413}" ShortID="146620929">
+											<PropertyList>
+												<Property Name="BusVolume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+						<Bus Name="SFX" ID="{40227667-4C44-41AE-BBD2-A1BD604E54AE}">
+							<ChildrenList>
+								<Bus Name="Player" ID="{AD5F8338-AF2F-46C8-B06F-20DF83E27CA4}">
+									<ChildrenList>
+										<Bus Name="Foley" ID="{EBB19A92-289F-4878-96BE-3BAA3697DA45}"/>
+										<Bus Name="Footsteps_01" ID="{9DE381D1-D0FE-482B-94B0-3C24AC8A604B}"/>
+									</ChildrenList>
+								</Bus>
+								<Bus Name="Monsters" ID="{148F3F5C-D792-43D7-A551-8140EE88BC1A}"/>
+							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="AudioState" ID="{DE5DD565-4EED-4D1E-8A8A-6F30C5D45A9B}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Gameplay" ID="{489C765F-2BA8-455B-9293-12033FE7D936}"/>
+										<CustomState Name="" ID="{D644F64A-B825-4D58-A4F2-4E81A1229FE1}" ShortID="576238405"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Cutscene" ID="{93A6CAC4-FEF9-4B93-92B9-79218C324E39}"/>
+										<CustomState Name="" ID="{0A87E090-B194-44D5-BCC7-58032554032A}" ShortID="564643611">
+											<PropertyList>
+												<Property Name="BusVolume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+						<Bus Name="ENVIRONMENT" ID="{BAA06140-68E8-4D93-B584-804587422360}">
+							<ChildrenList>
+								<Bus Name="env_tower" ID="{47169D7C-1234-494B-A762-2B4D94479685}">
+									<ChildrenList>
+										<Bus Name="env_tower_birds" ID="{2659154B-F478-45A5-9042-7EE4D51B44AB}"/>
+										<Bus Name="env_tower_winds" ID="{1A71F162-11D6-464E-8129-D012EAAA5FB2}"/>
+									</ChildrenList>
+								</Bus>
+								<Bus Name="env_forest" ID="{A3DEE811-5CB8-48E7-9322-BCC0BB02B749}">
+									<ChildrenList>
+										<Bus Name="env_forest_birds" ID="{CC8680E1-4960-4D4F-B256-449C1A09D146}"/>
+										<Bus Name="env_forest_winds" ID="{873FA469-66A4-427A-BE34-2AB1D8215781}"/>
+									</ChildrenList>
+								</Bus>
+								<Bus Name="env_start" ID="{CB463D91-9A72-4139-BCF1-A17B2219F8BC}">
+									<ChildrenList>
+										<Bus Name="env_start_birds" ID="{99F86EB0-BB67-4437-A3B9-5F76C4E48D87}"/>
+										<Bus Name="env_start_winds" ID="{3E758FD1-CD31-46A2-BAD3-A11FE3C1E5ED}"/>
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="AudioState" ID="{DE5DD565-4EED-4D1E-8A8A-6F30C5D45A9B}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Gameplay" ID="{489C765F-2BA8-455B-9293-12033FE7D936}"/>
+										<CustomState Name="" ID="{24421363-42BB-48D6-8C8F-437623FDE2DE}" ShortID="845193815"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Cutscene" ID="{93A6CAC4-FEF9-4B93-92B9-79218C324E39}"/>
+										<CustomState Name="" ID="{6A1CFD5B-60F1-4BCF-B39B-25EA7EDDBFF8}" ShortID="321808096">
+											<PropertyList>
+												<Property Name="BusVolume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+						<Bus Name="CUTSCENE" ID="{A0D68DF9-475E-405F-A253-F81DEFA6275F}">
+							<ChildrenList>
+								<Bus Name="Cut_Music" ID="{F22987AC-8086-4F46-8B97-00E33D5CA22B}"/>
+								<Bus Name="Cut_Sfx" ID="{F6655F6E-FE8D-442C-A7DB-B8D17592BEB8}"/>
+							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="AudioState" ID="{DE5DD565-4EED-4D1E-8A8A-6F30C5D45A9B}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Gameplay" ID="{489C765F-2BA8-455B-9293-12033FE7D936}"/>
+										<CustomState Name="" ID="{1855C624-B3B3-41C9-9563-7493EA3A9789}" ShortID="156302181">
+											<PropertyList>
+												<Property Name="BusVolume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Cutscene" ID="{93A6CAC4-FEF9-4B93-92B9-79218C324E39}"/>
+										<CustomState Name="" ID="{931D78F1-22C3-4E87-B70F-98F7B28FB9CE}" ShortID="787636939"/>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="RTPC">
+							<Reference>
+								<Local>
+									<RTPC Name="" ID="{626E2CCA-155D-4DBD-83AF-1924CECA1087}" ShortID="153528862">
+										<PropertyList>
+											<Property Name="PropertyName" Type="string" Value="MakeUpGain"/>
+										</PropertyList>
+										<ReferenceList>
+											<Reference Name="ControlInput">
+												<ObjectRef Name="SceneFadeOut" ID="{FB717B8E-53C0-4648-9111-C0A8CDFF5E19}" WorkUnitID="{D4FBD1CB-B541-4E1C-A12A-DAE5965C752B}"/>
+											</Reference>
+											<Reference Name="Curve">
+												<Custom>
+													<Curve Name="" ID="{F6DE6A0D-4E27-449C-A292-EF604CB9619D}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-400</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>0</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</Custom>
+											</Reference>
+										</ReferenceList>
+									</RTPC>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

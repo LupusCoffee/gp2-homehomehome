@@ -1,0 +1,4 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2597361298	MuteScene			\Default Work Unit\MuteScene	
+	3009041405	UnmuteScene			\Default Work Unit\UnmuteScene	
+

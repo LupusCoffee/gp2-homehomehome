@@ -1,0 +1,56 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "393239870",
+    "Type": "User",
+    "GUID": "{BB69BC46-7493-4FE7-B9EE-1339C8CDB68C}",
+    "Language": "SFX",
+    "Hash": "{112179B8-DE76-BDCF-518D-041A59AA52A0}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Sfx",
+    "ShortName": "Sfx",
+    "Path": "Sfx.bnk",
+    "Media": [
+     {
+      "Id": "849023612",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Screamlike 1 99Sounds.wav",
+      "CachePath": "9E/{9E68F83E-1AA1-8A4F-AECF-472E153F8553}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1417806402",
+      "Name": "ChooseAttribute",
+      "ObjectPath": "\\Events\\Default Work Unit\\Sfx\\ChooseAttribute",
+      "GUID": "{FAC2CCFA-E2C7-480C-92ED-743FA7772A3D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "3537581393",
+      "Name": "PlayerHurt",
+      "ObjectPath": "\\Events\\Default Work Unit\\Sfx\\PlayerHurt",
+      "GUID": "{21455B26-1AED-4702-B4C4-9860266C4747}",
+      "DurationType": "OneShot",
+      "DurationMin": "8.5",
+      "DurationMax": "8.5",
+      "MediaRefs": [
+       {
+        "Id": "849023612"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E5D511F2-FBC6-2B62-06CB-39C49CEC4729}"
+ }
+}

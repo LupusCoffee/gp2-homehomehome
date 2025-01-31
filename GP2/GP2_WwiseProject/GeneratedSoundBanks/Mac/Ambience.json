@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "85412153",
+    "Type": "User",
+    "GUID": "{C3ACEC2B-949C-475E-95A8-E40E6B722AF2}",
+    "Language": "SFX",
+    "Hash": "{B049DD2B-60D8-316B-1ADD-7386B2C2C97A}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Ambience",
+    "ShortName": "Ambience",
+    "Path": "Ambience.bnk",
+    "Media": [
+     {
+      "Id": "1037000343",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Heavy Wind Thunder Rain_MB 01.wav",
+      "CachePath": "05/{05CC4BE1-0A3F-0388-00AD-6BFFA6903E09}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1279121596",
+      "Name": "TestAmb_Play",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambience\\TestAmb_Play",
+      "GUID": "{5F7389C2-F0D7-42D6-8292-708DFE4FAC7D}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "1037000343"
+       }
+      ]
+     },
+     {
+      "Id": "32826150",
+      "Name": "TestAmb_Stop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambience\\TestAmb_Stop",
+      "GUID": "{41434D44-D40E-4181-B56C-DF74C3E3E335}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{86B6E8AF-DEF8-8380-9266-4E27AE617241}"
+ }
+}

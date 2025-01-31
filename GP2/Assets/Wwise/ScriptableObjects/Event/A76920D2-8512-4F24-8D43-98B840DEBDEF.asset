@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce4de1ee9307ee441a96f5b0dac57998, type: 3}
+  m_Name: A76920D2-8512-4F24-8D43-98B840DEBDEF
+  m_EditorClassIdentifier: 
+  objectName: SetState_AreaStates_Part3
+  id: 3600269527
+  guid: A76920D2-8512-4F24-8D43-98B840DEBDEF
+  IsInUserDefinedSoundBank: 1
+  IsAutoBankLoaded: 0

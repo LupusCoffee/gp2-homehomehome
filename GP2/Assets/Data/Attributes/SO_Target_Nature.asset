@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa039e700ccad2143a2b27f6877edf33, type: 3}
+  m_Name: SO_Target_Nature
+  m_EditorClassIdentifier: 
+  attributeName: Nature
+  attributeSprite: {fileID: 2800000, guid: a128f00dfc373bb468f6f46ac5cc45cf, type: 3}
+  musicEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 4bd467f04bf75eb43913cace89ad3577, type: 2}
+  typeNoteSequence: 
+  spellTarget: 2

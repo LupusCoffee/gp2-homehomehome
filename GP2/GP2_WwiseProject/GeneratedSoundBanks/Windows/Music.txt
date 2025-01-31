@@ -1,0 +1,61 @@
+Event	ID	Name			Wwise Object Path	Notes
+	755462161	SansMotif			\Default Work Unit\SpellMakerMotifs\SansMotif	
+	781174609	Music_ForestLevel2_Stop			\Default Work Unit\Music\Music_ForestLevel2_Stop	
+	941934412	Puzzle_OrderedButtonsCorrectMelody			\Default Work Unit\Specific Puzzles\Ordered Buttons\Puzzle_OrderedButtonsCorrectMelody	
+	958691897	MindControlMotif			\Default Work Unit\SpellMakerMotifs\MindControlMotif	
+	996697285	Puzzle_OrderedButtonsWrong			\Default Work Unit\Specific Puzzles\Ordered Buttons\Puzzle_OrderedButtonsWrong	
+	1044217835	AreaMotif			\Default Work Unit\SpellMakerMotifs\AreaMotif	
+	1160247284	Music_Town_Stop			\Default Work Unit\Music\Music_Town_Stop	
+	1292465123	PhysicalMotif			\Default Work Unit\SpellMakerMotifs\PhysicalMotif	
+	1560884227	ActivateMotif			\Default Work Unit\SpellMakerMotifs\ActivateMotif	
+	1668323508	Music_MainMenu_Play			\Default Work Unit\Music\Music_MainMenu_Play	
+	1794750146	SingleMotif			\Default Work Unit\SpellMakerMotifs\SingleMotif	
+	1913040308	SelfMotif			\Default Work Unit\SpellMakerMotifs\SelfMotif	
+	1953288347	Music_ForestLevel2_Play			\Default Work Unit\Music\Music_ForestLevel2_Play	
+	2032839439	CorruptionMotif			\Default Work Unit\SpellMakerMotifs\CorruptionMotif	
+	2074028522	Music_ForestLevel1_Play			\Default Work Unit\Music\Music_ForestLevel1_Play	
+	3146877969	Puzzle_OrderedButton4			\Default Work Unit\Specific Puzzles\Ordered Buttons\Puzzle_OrderedButton4	
+	3146877972	Puzzle_OrderedButton1			\Default Work Unit\Specific Puzzles\Ordered Buttons\Puzzle_OrderedButton1	
+	3146877974	Puzzle_OrderedButton3			\Default Work Unit\Specific Puzzles\Ordered Buttons\Puzzle_OrderedButton3	
+	3146877975	Puzzle_OrderedButton2			\Default Work Unit\Specific Puzzles\Ordered Buttons\Puzzle_OrderedButton2	
+	3372329102	Music_MainMenu_Stop			\Default Work Unit\Music\Music_MainMenu_Stop	
+	3519806996	Music_ForestLevel1_Stop			\Default Work Unit\Music\Music_ForestLevel1_Stop	
+	3572137211	RootedMotif			\Default Work Unit\SpellMakerMotifs\RootedMotif	
+	3679599670	PushMotif			\Default Work Unit\SpellMakerMotifs\PushMotif	
+	3749333260	LightMotif			\Default Work Unit\SpellMakerMotifs\LightMotif	
+	4009435850	Music_Town_Play			\Default Work Unit\Music\Music_Town_Play	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	82754628	AreaStates			\Default Work Unit\AreaStates	
+
+State	ID	Name	State Group			Notes
+	748895195	None	AreaStates			
+	3177314144	part2	AreaStates			
+	3177314145	part3	AreaStates			
+	3177314147	part1	AreaStates			
+	3177314150	part4	AreaStates			
+	3177314151	part5	AreaStates			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	4221520657	Instrument1Volume			\Default Work Unit\Instrument1Volume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	73725729	areaMotifV3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\5C\{5CF76B25-E115-385E-838A-678287C539B9}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\areaMotif\areaMotifV3		1680976
+	98163715	OrderedButton2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\F6\{F63BB7D4-C60E-4474-E1E7-1ECA3863210F}.wem		\Interactive Music Hierarchy\Default Work Unit\Specific Puzzles\Ordered Buttons\OrderedButton2\OrderedButton2		595860
+	293617096	OrderedButton1	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\CA\{CADD5EFC-415C-0F87-D6C5-62C39296CA19}.wem		\Interactive Music Hierarchy\Default Work Unit\Specific Puzzles\Ordered Buttons\OrderedButton1\OrderedButton1		818716
+	319912043	Wrong	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\6C\{6C1EDA58-D63C-7BD0-7380-E9C51A8CAA41}.wem		\Interactive Music Hierarchy\Default Work Unit\Specific Puzzles\Ordered Buttons\OrderedButtonsWrong\Wrong		549572
+	555575524	pushMotifV2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\D7\{D7494A70-A3A3-4029-42EB-3FF2F349ACB3}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\pushMotif\pushMotifV2		678476
+	580889943	further concepts	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\64\{640BC6FC-8A58-73BE-C2F6-1B48089DC41A}.wem		\Interactive Music Hierarchy\Default Work Unit\Town\Part3\further concepts		7333000
+	594440556	physicalMotifV2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\70\{70076262-10F6-3A3F-A309-6CE82C16438B}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\physicalMotif\physicalMotifV2		961812
+	594724203	selfMotifV3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\93\{939C2DB1-6705-836B-080A-DDBF4FD0B1D6}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\selfMotif\selfMotifV3		936812
+	602807571	OrderedButton4	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\E9\{E90B2AD1-172C-E5AF-9D77-0B55B0932638}.wem		\Interactive Music Hierarchy\Default Work Unit\Specific Puzzles\Ordered Buttons\OrderedButton4\OrderedButton4		617288
+	646581990	activateMotifV4	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\7E\{7E1A06E0-7753-E7F6-35FD-D22F40C9585B}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\activateMotif\activateMotifV4		647644
+	694177497	The Sound	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\F1\{F1039911-B020-B128-0445-9F1026544861}.wem		\Interactive Music Hierarchy\Default Work Unit\Specific Puzzles\Ordered Buttons\OrderedButtonsCorrectMelody\The Sound		1228428
+	806873788	corruptionMotifV5	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\53\{53909BBC-1EFA-DEF4-1501-055E6BE5EBB6}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\corruptionMotif\corruptionMotifV5		928476
+	817248010	singleMotifV3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\F9\{F9EEF657-F75A-8158-D315-77C2DCFFC936}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\singleMotif\singleMotifV3		1680976
+	833223236	mindControlMotifV2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\59\{59FAAA31-D2C9-91FE-6902-13A896615807}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\mindControlMotif\mindControlMotifV2		726812
+	834712613	OrderedButton3	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\76\{7659E95B-2B7C-E4A2-6385-8D316E6855A9}.wem		\Interactive Music Hierarchy\Default Work Unit\Specific Puzzles\Ordered Buttons\OrderedButton3\OrderedButton3		678144
+	914396598	lightMotifV2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\3D\{3D24909C-D5FB-78CD-C870-857CD3DC1C3C}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\lightMotif\lightMotifV2		735976
+	953334192	rootedMotifV2	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\15\{15E67E4A-68C4-7445-1ABD-6149BCB4868E}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\rootedMotif\rootedMotifV2		924312
+	1062822408	sans	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\AA\{AAD34367-07F1-C334-99F2-C0D1A0AF3E30}.wem		\Interactive Music Hierarchy\Default Work Unit\SpellMakerMotifs\sansMotif\sans		526812
+

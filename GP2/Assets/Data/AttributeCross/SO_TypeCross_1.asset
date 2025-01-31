@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4b05e04d62dc048a0aa2fbe8f5dd19, type: 3}
+  m_Name: SO_TypeCross_1
+  m_EditorClassIdentifier: 
+  spellAttributes:
+  - {fileID: 11400000, guid: 56f28a8e4e6159d4191335daa975aaeb, type: 2}
+  - {fileID: 11400000, guid: fc52232e7a69b8e4684d1f1e96d0650b, type: 2}
+  - {fileID: 11400000, guid: 75bc53d5c733bc74e8c1e55bd4e1f40f, type: 2}
+  - {fileID: 11400000, guid: 54df52633479c1a4a938b109a8e7db6d, type: 2}

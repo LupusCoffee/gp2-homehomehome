@@ -1,0 +1,347 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{59F59857-B7ED-67A3-81A4-B2F803C36D9D}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{842F7061-D971-4B5A-97F4-9E18527AB8E6}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{FB0C63D0-21EF-43E8-A9DB-F5F58DCF1B6A}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "56602315",
+      "Name": "Cut_Sfx",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\CUTSCENE\\Cut_Sfx",
+      "GUID": "{F6655F6E-FE8D-442C-A7DB-B8D17592BEB8}"
+     },
+     {
+      "Id": "137722903",
+      "Name": "Cut_Music",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\CUTSCENE\\Cut_Music",
+      "GUID": "{F22987AC-8086-4F46-8B97-00E33D5CA22B}"
+     },
+     {
+      "Id": "247557814",
+      "Name": "Foley",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX\\Player\\Foley",
+      "GUID": "{EBB19A92-289F-4878-96BE-3BAA3697DA45}"
+     },
+     {
+      "Id": "251966643",
+      "Name": "mus_env_start",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_environment\\mus_env_start",
+      "GUID": "{997D818E-94C8-4873-9070-F42B93ABB0E9}"
+     },
+     {
+      "Id": "281846485",
+      "Name": "mus_voice_npc",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_interactions\\mus_int_voices\\mus_voice_npc",
+      "GUID": "{802223D6-FD1F-4294-A151-4C69FB9BD1A8}"
+     },
+     {
+      "Id": "393239870",
+      "Name": "SFX",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX",
+      "GUID": "{40227667-4C44-41AE-BBD2-A1BD604E54AE}"
+     },
+     {
+      "Id": "571629732",
+      "Name": "mus_environment",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_environment",
+      "GUID": "{DE9645D5-BDBB-445E-8250-BC7DEBC7A761}"
+     },
+     {
+      "Id": "684599941",
+      "Name": "env_tower_birds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_tower\\env_tower_birds",
+      "GUID": "{2659154B-F478-45A5-9042-7EE4D51B44AB}"
+     },
+     {
+      "Id": "767862435",
+      "Name": "mus_int_puzzle",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_interactions\\mus_int_puzzle",
+      "GUID": "{8CF00CAE-3CD7-4762-9F9E-DE08A0799218}"
+     },
+     {
+      "Id": "1058811110",
+      "Name": "env_forest",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_forest",
+      "GUID": "{A3DEE811-5CB8-48E7-9322-BCC0BB02B749}"
+     },
+     {
+      "Id": "1069431850",
+      "Name": "Player",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX\\Player",
+      "GUID": "{AD5F8338-AF2F-46C8-B06F-20DF83E27CA4}"
+     },
+     {
+      "Id": "1182958561",
+      "Name": "CUTSCENE",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\CUTSCENE",
+      "GUID": "{A0D68DF9-475E-405F-A253-F81DEFA6275F}"
+     },
+     {
+      "Id": "1229948536",
+      "Name": "ENVIRONMENT",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT",
+      "GUID": "{BAA06140-68E8-4D93-B584-804587422360}"
+     },
+     {
+      "Id": "1301152922",
+      "Name": "mus_interactions",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_interactions",
+      "GUID": "{F63611A9-64DC-40C9-B992-78302F69819C}"
+     },
+     {
+      "Id": "1314367346",
+      "Name": "env_forest_winds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_forest\\env_forest_winds",
+      "GUID": "{873FA469-66A4-427A-BE34-2AB1D8215781}"
+     },
+     {
+      "Id": "1544935580",
+      "Name": "env_tower",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_tower",
+      "GUID": "{47169D7C-1234-494B-A762-2B4D94479685}"
+     },
+     {
+      "Id": "1790762824",
+      "Name": "env_tower_winds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_tower\\env_tower_winds",
+      "GUID": "{1A71F162-11D6-464E-8129-D012EAAA5FB2}"
+     },
+     {
+      "Id": "2579121919",
+      "Name": "mus_voice_player",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_interactions\\mus_int_voices\\mus_voice_player",
+      "GUID": "{EE83A153-3D71-43B9-97FF-DC9AA7339422}"
+     },
+     {
+      "Id": "2758112767",
+      "Name": "env_start_winds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_start\\env_start_winds",
+      "GUID": "{3E758FD1-CD31-46A2-BAD3-A11FE3C1E5ED}"
+     },
+     {
+      "Id": "2848855924",
+      "Name": "Footsteps_01",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX\\Player\\Footsteps_01",
+      "GUID": "{9DE381D1-D0FE-482B-94B0-3C24AC8A604B}"
+     },
+     {
+      "Id": "2929655022",
+      "Name": "mus_int_voices",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_interactions\\mus_int_voices",
+      "GUID": "{214B0A12-81AC-410B-BA91-B3CFE5072E23}"
+     },
+     {
+      "Id": "3026539327",
+      "Name": "env_forest_birds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_forest\\env_forest_birds",
+      "GUID": "{CC8680E1-4960-4D4F-B256-449C1A09D146}"
+     },
+     {
+      "Id": "3312804159",
+      "Name": "env_start",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_start",
+      "GUID": "{CB463D91-9A72-4139-BCF1-A17B2219F8BC}"
+     },
+     {
+      "Id": "3564604690",
+      "Name": "mus_env_forest",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_environment\\mus_env_forest",
+      "GUID": "{7779ADA5-9BEC-4022-9B9C-EF25168E3D7B}"
+     },
+     {
+      "Id": "3577614080",
+      "Name": "mus_env_tower",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC\\mus_environment\\mus_env_tower",
+      "GUID": "{C4CDBDC8-B22D-4B60-840D-6A70D5EB1C7C}"
+     },
+     {
+      "Id": "3662598122",
+      "Name": "env_start_birds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ENVIRONMENT\\env_start\\env_start_birds",
+      "GUID": "{99F86EB0-BB67-4437-A3B9-5F76C4E48D87}"
+     },
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     },
+     {
+      "Id": "3858746980",
+      "Name": "Monsters",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX\\Monsters",
+      "GUID": "{148F3F5C-D792-43D7-A551-8140EE88BC1A}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "MUSIC",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MUSIC",
+      "GUID": "{8F676C3B-6B5E-4C8F-B11A-6B981936A144}"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "210642895",
+      "Name": "SceneFadeOut",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\SceneFadeOut",
+      "GUID": "{FB717B8E-53C0-4648-9111-C0A8CDFF5E19}"
+     },
+     {
+      "Id": "4221520657",
+      "Name": "Instrument1Volume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument1Volume",
+      "GUID": "{99CC7BB5-EC08-458C-9D15-0596F8D87D76}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "82754628",
+      "Name": "AreaStates",
+      "ObjectPath": "\\States\\Default Work Unit\\AreaStates",
+      "GUID": "{1848850B-DEC0-4E66-B9D9-8166ED1DAC5E}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\AreaStates\\None",
+        "GUID": "{01CE6CF4-4535-4124-86D4-93C4B52227B3}"
+       },
+       {
+        "Id": "3177314144",
+        "Name": "part2",
+        "ObjectPath": "\\States\\Default Work Unit\\AreaStates\\part2",
+        "GUID": "{E0E69E4A-81D8-4D3D-AEEE-6D1443B40BB1}"
+       },
+       {
+        "Id": "3177314145",
+        "Name": "part3",
+        "ObjectPath": "\\States\\Default Work Unit\\AreaStates\\part3",
+        "GUID": "{0BCCB92C-6353-4C2B-B830-0E53D288740D}"
+       },
+       {
+        "Id": "3177314147",
+        "Name": "part1",
+        "ObjectPath": "\\States\\Default Work Unit\\AreaStates\\part1",
+        "GUID": "{D8301E51-A9EE-4158-A118-F08D5A19126B}"
+       },
+       {
+        "Id": "3177314150",
+        "Name": "part4",
+        "ObjectPath": "\\States\\Default Work Unit\\AreaStates\\part4",
+        "GUID": "{A045A065-9C39-4F22-A622-0447EF6B6A00}"
+       },
+       {
+        "Id": "3177314151",
+        "Name": "part5",
+        "ObjectPath": "\\States\\Default Work Unit\\AreaStates\\part5",
+        "GUID": "{97B9FD96-3931-4B4C-9100-7EA4E14A36C8}"
+       }
+      ]
+     },
+     {
+      "Id": "1658244764",
+      "Name": "MusicLayers",
+      "ObjectPath": "\\States\\Default Work Unit\\MusicLayers",
+      "GUID": "{77709349-831A-41AC-B93D-14DA8628A680}",
+      "States": [
+       {
+        "Id": "602912168",
+        "Name": "layers1",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicLayers\\layers1",
+        "GUID": "{E0B51BE4-0266-4D73-AE2B-F2FE13CBD555}"
+       },
+       {
+        "Id": "602912170",
+        "Name": "layers3",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicLayers\\layers3",
+        "GUID": "{514BBF62-5049-4716-9F5A-9DCDDF628040}"
+       },
+       {
+        "Id": "602912171",
+        "Name": "layers2",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicLayers\\layers2",
+        "GUID": "{B5995E9C-BCC5-4D91-9286-FF4F81CB3AFC}"
+       },
+       {
+        "Id": "602912172",
+        "Name": "layers5",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicLayers\\layers5",
+        "GUID": "{B2372D52-00EA-4CD0-A4B8-C9E426F48BE8}"
+       },
+       {
+        "Id": "602912173",
+        "Name": "layers4",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicLayers\\layers4",
+        "GUID": "{54B2EE34-76B5-430A-A142-5BD287A1F11D}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicLayers\\None",
+        "GUID": "{982CA274-3BA0-485F-93C4-9ACAFB93714E}"
+       }
+      ]
+     },
+     {
+      "Id": "4065936276",
+      "Name": "AudioState",
+      "ObjectPath": "\\States\\Default Work Unit\\AudioState",
+      "GUID": "{DE5DD565-4EED-4D1E-8A8A-6F30C5D45A9B}",
+      "States": [
+       {
+        "Id": "89505537",
+        "Name": "Gameplay",
+        "ObjectPath": "\\States\\Default Work Unit\\AudioState\\Gameplay",
+        "GUID": "{489C765F-2BA8-455B-9293-12033FE7D936}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\AudioState\\None",
+        "GUID": "{559F16AF-C1F2-40BF-9833-728AF5D8A27F}"
+       },
+       {
+        "Id": "1182958561",
+        "Name": "Cutscene",
+        "ObjectPath": "\\States\\Default Work Unit\\AudioState\\Cutscene",
+        "GUID": "{93A6CAC4-FEF9-4B93-92B9-79218C324E39}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A71F215C-DD5A-149F-2514-D5E79214F9DE}"
+ }
+}

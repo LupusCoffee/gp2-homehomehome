@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce4de1ee9307ee441a96f5b0dac57998, type: 3}
+  m_Name: 56236329-9D1F-4B81-8E98-7BC6B76B45ED
+  m_EditorClassIdentifier: 
+  objectName: SansMotif
+  id: 755462161
+  guid: 56236329-9D1F-4B81-8E98-7BC6B76B45ED
+  IsInUserDefinedSoundBank: 1
+  IsAutoBankLoaded: 0

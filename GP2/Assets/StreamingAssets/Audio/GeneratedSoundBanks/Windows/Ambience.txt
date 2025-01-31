@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	32826150	TestAmb_Stop			\Default Work Unit\Ambience\TestAmb_Stop	
+	1279121596	TestAmb_Play			\Default Work Unit\Ambience\TestAmb_Play	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1037000343	Heavy Wind Thunder Rain_MB 01	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\05\{05CC4BE1-0A3F-0388-00AD-6BFFA6903E09}.wem		\Actor-Mixer Hierarchy\Default Work Unit\TowerWindAmbience\Heavy Wind Thunder Rain_MB 01		32958560
+

@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1744723401",
+    "Type": "User",
+    "GUID": "{9BC9B175-BFCF-4D0B-A66F-9B787AE56238}",
+    "Language": "SFX",
+    "Hash": "{918C3499-943F-B5BE-2D1C-FD1D1C97643D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Bonk",
+    "ShortName": "Bonk",
+    "Path": "Bonk.bnk"
+   }
+  ],
+  "FileHash": "{527C9B15-C58A-0F8C-FA4E-DC49D537D2AC}"
+ }
+}

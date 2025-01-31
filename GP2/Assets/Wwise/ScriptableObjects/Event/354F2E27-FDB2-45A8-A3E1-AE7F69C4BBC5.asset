@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce4de1ee9307ee441a96f5b0dac57998, type: 3}
+  m_Name: 354F2E27-FDB2-45A8-A3E1-AE7F69C4BBC5
+  m_EditorClassIdentifier: 
+  objectName: Music_MainMenu_Stop
+  id: 3372329102
+  guid: 354F2E27-FDB2-45A8-A3E1-AE7F69C4BBC5
+  IsInUserDefinedSoundBank: 1
+  IsAutoBankLoaded: 0

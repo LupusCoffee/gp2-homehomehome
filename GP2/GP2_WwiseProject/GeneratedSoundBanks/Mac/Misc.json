@@ -1,0 +1,43 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3062523257",
+    "Type": "User",
+    "GUID": "{37F286B3-510C-4788-82BF-36F613DD7FB8}",
+    "Language": "SFX",
+    "Hash": "{F6D92D9A-E082-E167-0936-D2B88AE91FC2}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Misc",
+    "ShortName": "Misc",
+    "Path": "Misc.bnk",
+    "Events": [
+     {
+      "Id": "2597361298",
+      "Name": "MuteScene",
+      "ObjectPath": "\\Events\\Default Work Unit\\MuteScene",
+      "GUID": "{86468C7B-37B3-4CEE-9501-5E40F3BB51B2}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "3009041405",
+      "Name": "UnmuteScene",
+      "ObjectPath": "\\Events\\Default Work Unit\\UnmuteScene",
+      "GUID": "{B11126CD-9977-4794-BCD8-9B2D2B232BD8}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{25F3047E-391E-59BE-01DE-0F202ACB44EE}"
+ }
+}

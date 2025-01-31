@@ -1,0 +1,60 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	82754628	AreaStates			\Default Work Unit\AreaStates	
+	1658244764	MusicLayers			\Default Work Unit\MusicLayers	
+	4065936276	AudioState			\Default Work Unit\AudioState	
+
+State	ID	Name	State Group			Notes
+	748895195	None	AreaStates			
+	3177314144	part2	AreaStates			
+	3177314145	part3	AreaStates			
+	3177314147	part1	AreaStates			
+	3177314150	part4	AreaStates			
+	3177314151	part5	AreaStates			
+	602912168	layers1	MusicLayers			
+	602912170	layers3	MusicLayers			
+	602912171	layers2	MusicLayers			
+	602912172	layers5	MusicLayers			
+	602912173	layers4	MusicLayers			
+	748895195	None	MusicLayers			
+	89505537	Gameplay	AudioState			
+	748895195	None	AudioState			
+	1182958561	Cutscene	AudioState			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	210642895	SceneFadeOut			\Default Work Unit\SceneFadeOut	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	56602315	Cut_Sfx			\Default Work Unit\Master Audio Bus\CUTSCENE\Cut_Sfx	
+	137722903	Cut_Music			\Default Work Unit\Master Audio Bus\CUTSCENE\Cut_Music	
+	247557814	Foley			\Default Work Unit\Master Audio Bus\SFX\Player\Foley	
+	251966643	mus_env_start			\Default Work Unit\Master Audio Bus\MUSIC\mus_environment\mus_env_start	
+	281846485	mus_voice_npc			\Default Work Unit\Master Audio Bus\MUSIC\mus_interactions\mus_int_voices\mus_voice_npc	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	571629732	mus_environment			\Default Work Unit\Master Audio Bus\MUSIC\mus_environment	
+	684599941	env_tower_birds			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_tower\env_tower_birds	
+	767862435	mus_int_puzzle			\Default Work Unit\Master Audio Bus\MUSIC\mus_interactions\mus_int_puzzle	
+	1058811110	env_forest			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_forest	
+	1069431850	Player			\Default Work Unit\Master Audio Bus\SFX\Player	
+	1182958561	CUTSCENE			\Default Work Unit\Master Audio Bus\CUTSCENE	
+	1229948536	ENVIRONMENT			\Default Work Unit\Master Audio Bus\ENVIRONMENT	
+	1301152922	mus_interactions			\Default Work Unit\Master Audio Bus\MUSIC\mus_interactions	
+	1314367346	env_forest_winds			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_forest\env_forest_winds	
+	1544935580	env_tower			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_tower	
+	1790762824	env_tower_winds			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_tower\env_tower_winds	
+	2579121919	mus_voice_player			\Default Work Unit\Master Audio Bus\MUSIC\mus_interactions\mus_int_voices\mus_voice_player	
+	2758112767	env_start_winds			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_start\env_start_winds	
+	2848855924	Footsteps_01			\Default Work Unit\Master Audio Bus\SFX\Player\Footsteps_01	
+	2929655022	mus_int_voices			\Default Work Unit\Master Audio Bus\MUSIC\mus_interactions\mus_int_voices	
+	3026539327	env_forest_birds			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_forest\env_forest_birds	
+	3312804159	env_start			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_start	
+	3564604690	mus_env_forest			\Default Work Unit\Master Audio Bus\MUSIC\mus_environment\mus_env_forest	
+	3577614080	mus_env_tower			\Default Work Unit\Master Audio Bus\MUSIC\mus_environment\mus_env_tower	
+	3662598122	env_start_birds			\Default Work Unit\Master Audio Bus\ENVIRONMENT\env_start\env_start_birds	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3858746980	Monsters			\Default Work Unit\Master Audio Bus\SFX\Monsters	
+	3991942870	MUSIC			\Default Work Unit\Master Audio Bus\MUSIC	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

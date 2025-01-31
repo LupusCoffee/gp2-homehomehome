@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cc55f29979468d9578e27bf93e93f5, type: 3}
+  m_Name: JournalDatabaseTest
+  m_EditorClassIdentifier: 
+  NpcJournal: {fileID: 4391894469443155543}
+  StoryJournal: {fileID: 3051595989988664310}
+  SongsJournal: {fileID: 3114838104714235710}
+--- !u!114 &3051595989988664310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 683400cbf1a940d5b2a274677bd30fa8, type: 3}
+  m_Name: StoryJournal
+  m_EditorClassIdentifier: 
+  Items:
+  - Title: 
+    JournalType: 0
+    StoryData:
+      Story: Story
+    ArtifactData:
+      ArtifactId: 0
+      Artifact: Artifact
+--- !u!114 &3114838104714235710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 683400cbf1a940d5b2a274677bd30fa8, type: 3}
+  m_Name: SongsJournal
+  m_EditorClassIdentifier: 
+  Items: []
+--- !u!114 &4391894469443155543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 683400cbf1a940d5b2a274677bd30fa8, type: 3}
+  m_Name: NpcJournal
+  m_EditorClassIdentifier: 
+  Items:
+  - Title: Title
+    JournalType: 0
+    StoryData:
+      Story: Story
+    ArtifactData:
+      ArtifactId: 0
+      Artifact: Artifact

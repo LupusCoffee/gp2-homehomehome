@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Personal/Mohammed/MAIN_MENU.unity
+    guid: b2c5f96a77ec480468d43bd6d2d3c645
+  - enabled: 0
+    path: Assets/Personal/Mohammed/TOWN.unity
+    guid: 8eb612135d8ce9342953242eb88077c1
+  - enabled: 0
+    path: Assets/Personal/Mohammed/LEVEL1.unity
+    guid: 3896d2bd9a5e90948897a8d66e59165e
+  - enabled: 1
+    path: Assets/Personal/David/Test Level Design.unity
+    guid: 74ec2b996e07eb1478ada59a59569043
+  - enabled: 1
+    path: Assets/Personal/Zonghao/ZonghaoLevelTestScene.unity
+    guid: 1b662f28f3099cf4e9ed6876e2f54d4b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: c6593c15d55f8684a9ba3fe6293447e6, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

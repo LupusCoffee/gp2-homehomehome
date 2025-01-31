@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1417806402	ChooseAttribute			\Default Work Unit\Sfx\ChooseAttribute	
+	3537581393	PlayerHurt			\Default Work Unit\Sfx\PlayerHurt	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	849023612	Screamlike 1 99Sounds	C:\Users\MohammedDiab\Perforce\mohammed.diab_gp2_fg24\GP2\GP2_WwiseProject\.cache\9E\{9E68F83E-1AA1-8A4F-AECF-472E153F8553}.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerHurtSfx\Screamlike 1 99Sounds		1632160
+
