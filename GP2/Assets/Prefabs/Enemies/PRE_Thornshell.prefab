@@ -141,6 +141,7 @@ GameObject:
   - component: {fileID: 5544957761994456105}
   - component: {fileID: 493623455827427525}
   - component: {fileID: 3478396828674797969}
+  - component: {fileID: 3708474214804439660}
   m_Layer: 0
   m_Name: PRE_Thornshell
   m_TagString: Corruption
@@ -352,6 +353,18 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.4
   m_Center: {x: 0, y: 0, z: 1}
+--- !u!114 &3708474214804439660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1971894951802816778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c528d620675dd4b4cbc90914df7cc798, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &7922750480277800820
 PrefabInstance:
   m_ObjectHideFlags: 0
